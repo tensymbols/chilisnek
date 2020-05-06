@@ -105,7 +105,6 @@ void Game::ComposeFrame()
 	else if (gameOver == 2) win.Draw(200, 250, 10);
 	
 
-	
-	//if (gameOver) SpriteCodex::DrawGameOver(300,200,gfx);
+
 
 }
